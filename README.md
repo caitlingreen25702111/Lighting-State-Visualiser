@@ -61,6 +61,15 @@ Audio Synchronisation
 -	could use sound to trigger lighting change eg. fireworks could respond to music tempo or sound effects.
 
 # Citations 
+Christopher Ockerby. (2017, October 22). 03 - Processing - creating a button class [Video]. YouTube. https://www.youtube.com/watch?v=z903vXot-Lg 
+Color. (n.d.). Processing. https://processing.org/tutorials/color 
+KeyPressed() / reference. (n.d.). Processing. https://processing.org/reference/keyPressed_.html 
+Mr Johnson Computing. (2020, March 31). Animating stars in processing [Video]. YouTube. https://www.youtube.com/watch?v=ixD-sZ2tSu0 
+Programming Chaos. (2022, December 5). Programming fireworks using particles [Video]. YouTube. https://www.youtube.com/watch?v=tWqeWJikOCI 
+Rotate / examples. (n.d.). Processing. https://processing.org/examples/rotate.html Rotate 1 / examples. (n.d.). Processing. https://processing.org/examples/rotatexy.html 
+Simple particle system / examples. (n.d.). Processing. https://processing.org/examples/simpleparticlesystem.html 
+The Coding Train. (2021, March 9). 4.1: Particle System Simulation - the Nature of code [Video]. YouTube. https://www.youtube.com/watch?v=syR0klfncCk 
+thedotisblack creative coding. (2018, July 27). Ep.1 Processing tutorial | GENERATIVE CIRCLE with line and loop (Creative coding, Generative art) [Video]. YouTube. https://www.youtube.com/watch?v=UZoVBMgzULk
 
 # Project Status
 No longer being worked on however unfinished (only a prototype).
