@@ -29,21 +29,25 @@ Youtube link to screen recoring of operational code: https://youtu.be/3ibXOrqtJt
 # Go Button Interactions 
 - an interactive keyboar controlled sysem. Press any key to move on to the next scene. Intergrated using keyPressed() function.
 - offers flexibility for live performance
+- reference: KeyPressed() / reference. (n.d.). Processing. https://processing.org/reference/keyPressed_.html
 
 # Solar Systen Generation
 - Uses ArrayList of Star objects 
 - Each has a randomised position, brightness and size
 - The star class uses a move() function with PVector to create movement
-- intergrated an infinate loop 
+- intergrated an infinate loop
+- refrences: Mr Johnson Computing. (2020, March 31). Animating stars in processing [Video]. YouTube. https://www.youtube.com/watch?v=ixD-sZ2tSu0
 
 # Firework Particles
 - Firework and Particle classes created
 - Gravity is simulated using downward PVector
 - Particles fade naturally when life <0
+- refrences: Simple particle system / examples. (n.d.). Processing. https://processing.org/examples/simpleparticlesystem.html & The Coding Train. (2021, March 9). 4.1: Particle System Simulation - the Nature of code [Video]. YouTube. https://www.youtube.com/watch?v=syR0klfncCk & Programming Chaos. (2022, December 5). Programming fireworks using particles [Video]. YouTube. https://www.youtube.com/watch?v=tWqeWJikOCI
 
 # Red Roataing Pattern
 - Built with for loop rotating every 2 degrees
 - inspired by @thedotisblack 'Generative Circle Tutorial'
+- refrence: thedotisblack creative coding. (2018, July 27). Ep.1 Processing tutorial | GENERATIVE CIRCLE with line and loop (Creative coding, Generative art) [Video]. YouTube. https://www.youtube.com/watch?v=UZoVBMgzULk & Color. (n.d.). Processing. https://processing.org/tutorials/color
 
 # Room for improvement 
 Improved User Interactivity
@@ -61,15 +65,15 @@ Audio Synchronisation
 -	could use sound to trigger lighting change eg. fireworks could respond to music tempo or sound effects.
 
 # Citations 
-Christopher Ockerby. (2017, October 22). 03 - Processing - creating a button class [Video]. YouTube. https://www.youtube.com/watch?v=z903vXot-Lg 
-Color. (n.d.). Processing. https://processing.org/tutorials/color 
-KeyPressed() / reference. (n.d.). Processing. https://processing.org/reference/keyPressed_.html 
-Mr Johnson Computing. (2020, March 31). Animating stars in processing [Video]. YouTube. https://www.youtube.com/watch?v=ixD-sZ2tSu0 
-Programming Chaos. (2022, December 5). Programming fireworks using particles [Video]. YouTube. https://www.youtube.com/watch?v=tWqeWJikOCI 
-Rotate / examples. (n.d.). Processing. https://processing.org/examples/rotate.html Rotate 1 / examples. (n.d.). Processing. https://processing.org/examples/rotatexy.html 
-Simple particle system / examples. (n.d.). Processing. https://processing.org/examples/simpleparticlesystem.html 
-The Coding Train. (2021, March 9). 4.1: Particle System Simulation - the Nature of code [Video]. YouTube. https://www.youtube.com/watch?v=syR0klfncCk 
-thedotisblack creative coding. (2018, July 27). Ep.1 Processing tutorial | GENERATIVE CIRCLE with line and loop (Creative coding, Generative art) [Video]. YouTube. https://www.youtube.com/watch?v=UZoVBMgzULk
+- Christopher Ockerby. (2017, October 22). 03 - Processing - creating a button class [Video]. YouTube. https://www.youtube.com/watch?v=z903vXot-Lg
+- Color. (n.d.). Processing. https://processing.org/tutorials/color
+- KeyPressed() / reference. (n.d.). Processing. https://processing.org/reference/keyPressed_.html
+- Mr Johnson Computing. (2020, March 31). Animating stars in processing [Video]. YouTube. https://www.youtube.com/watch?v=ixD-sZ2tSu0
+- Programming Chaos. (2022, December 5). Programming fireworks using particles [Video]. YouTube. https://www.youtube.com/watch?v=tWqeWJikOCI
+- Rotate / examples. (n.d.). Processing. https://processing.org/examples/rotate.html Rotate 1 / examples. (n.d.). Processing. https://processing.org/examples/rotatexy.html
+- Simple particle system / examples. (n.d.). Processing. https://processing.org/examples/simpleparticlesystem.html
+- The Coding Train. (2021, March 9). 4.1: Particle System Simulation - the Nature of code [Video]. YouTube. https://www.youtube.com/watch?v=syR0klfncCk
+- thedotisblack creative coding. (2018, July 27). Ep.1 Processing tutorial | GENERATIVE CIRCLE with line and loop (Creative coding, Generative art) [Video]. YouTube. https://www.youtube.com/watch?v=UZoVBMgzULk
 
 # Project Status
 No longer being worked on however unfinished (only a prototype).
